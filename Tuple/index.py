@@ -1,0 +1,11 @@
+# tuple are similer to the list but it cannot be changable 
+# tup = (2,43,45,54)
+# print(type(tup))
+# print(len(tup))
+# print(tup[0])
+# tup = (2,43,45,54)
+# print(tup[2:4])
+tup = (1,23,345,54,334,)
+print(tup.count(23))
+print(tup.count(54))
+print(tup.index(1))
