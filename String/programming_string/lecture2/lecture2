@@ -1,0 +1,9 @@
+String Methods in python:
+In this lecture we will study all the Methods that are used on string to maniplute it . 
+This is very essentail for natural language processing or simply (NLP).
+=> we will study builtin methods of string 
+=> python provide a rich amount of string methods on which very essential okay
+=> That built-in method allow us to do some operations like:
+1) string formating
+2) searching
+3) modifying
